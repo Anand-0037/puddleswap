@@ -1,0 +1,24 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "devbox-sync/2026-05-07",
+    "fix/create-pool-same-token",
+    "master",
+    "one-claim-rule",
+    "origin"
+  ],
+  "parent": {
+    "devbox-sync/2026-05-07": "master",
+    "fix/create-pool-same-token": "master",
+    "master": null,
+    "one-claim-rule": "master",
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "devbox-sync/2026-05-07",
+    "fix/create-pool-same-token",
+    "one-claim-rule",
+    "origin"
+  ]
+}

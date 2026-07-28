@@ -10,8 +10,6 @@ test-results/
 .playwright-mcp/
 
 # Env
-.env
-.env.*
 !.env.example
 
 # Vercel
@@ -35,3 +33,4 @@ contracts/broadcast/
 # OS
 .DS_Store
 .gstack/
+config.bat

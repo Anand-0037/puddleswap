@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "scripts": {
     "test": "make test",
-    "dev": "make dev",
-    "build": "pnpm -C web build",
+    "dev": "node init && make dev",
+    "build": "node init && pnpm -C web build",
     "setup": "make setup",
     "sync-artifacts": "make sync-artifacts"
   },
